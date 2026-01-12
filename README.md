@@ -1,26 +1,21 @@
-# 📊 Marketing Campaign Performance Dashboard (Excel)
+# 📊 Marketing Campaign Performance Analytics (Excel)
+Marketing campaign performance analysis using Excel dashboards and KPIs
 
-## 🎯 Objective
-- Analyze overall marketing performance
-- Identify top-performing marketing channels
-- Evaluate ROI and conversion efficiency
-- Understand customer engagement levels
-- Compare campaign types and customer segments
-- Assess revenue-to-profit efficiency
+# Project Objective
+The objective of this project is to analyze marketing campaign performance across multiple channels, companies, and customer segments to identify high-performing strategies. The analysis focuses on understanding conversion behavior, ROI, engagement levels, seasonal trends, and profitability to support data-driven marketing decisions and campaign optimization.
 
----
+# Tools Used
+Microsoft Excel
+Data cleaning and preprocessing
+Calculated columns (ROI, conversion rate, profit, engagement level)
+Pivot Tables and Pivot Charts
+Dashboard creation
 
-## 🛠 Tools Used
-- Microsoft Excel
-  - Pivot Tables
-  - Pivot Charts
-  - Calculated Fields
-  - Formulas
-  - Conditional Formatting
-  - Dashboard Design
-- No external tools used (Power BI / SQL / Python not used)
+# Project Files
+- 📊 **Excel Workbook (Raw data, processed data, dashboard):**  
+  [Download Excel file](https://docs.google.com/spreadsheets/d/1s5r1R2SLRNXIVJzM4KkUjIoS4G4HR4oi/edit?usp=sharing&ouid=109834496355234014719&rtpof=true&sd=true)
+  <img width="1320" height="863" alt="Marketing_Analytics_Performance" src="https://github.com/user-attachments/assets/7cf3aee5-a188-454d-a06a-e6910ed9756d" />
 
----
 
 ## 📌 Key KPIs
 - Total Revenue: **$12.5B**
@@ -112,34 +107,6 @@
 - Influencer and Search campaigns deliver the highest ROI
 - Engagement levels indicate strong campaign effectiveness
 - ROI stability reflects efficient marketing strategy
-- Customer segments show clear revenue and ROI differentiation
-
----
-
-## 📂 Project Assets
-- Excel Dashboard (.xlsx)
-- Dashboard Screenshots
-- README.md
-
-# Marketing-Campaign_Analytics-Excel
-Marketing campaign performance analysis using Excel dashboards and KPIs
-
-# Project Objective
-The objective of this project is to analyze marketing campaign performance across multiple channels, companies, and customer segments to identify high-performing strategies. The analysis focuses on understanding conversion behavior, ROI, engagement levels, seasonal trends, and profitability to support data-driven marketing decisions and campaign optimization.
-
-# Tools Used
-Microsoft Excel
-Data cleaning and preprocessing
-Calculated columns (ROI, conversion rate, profit, engagement level)
-Pivot Tables and Pivot Charts
-Interactive dashboard creation
-
-# Project Files
-- 📊 **Excel Workbook (Raw data, processed data, dashboard):**  
-  [Download Excel file](https://docs.google.com/spreadsheets/d/1s5r1R2SLRNXIVJzM4KkUjIoS4G4HR4oi/edit?usp=sharing&ouid=109834496355234014719&rtpof=true&sd=true)
-  <img width="1320" height="863" alt="Marketing_Analytics_Performance" src="https://github.com/user-attachments/assets/7cf3aee5-a188-454d-a06a-e6910ed9756d" />
-
-
-# Conclusion:
+- Customer segments show clear revenue and ROI differentiatio
 
 The marketing campaign analysis highlights strong overall performance with efficient budget utilization across channels. Email and Website campaigns deliver the highest conversion rates, while Influencer and Display campaigns generate the strongest ROI. Key companies such as Tech Corporations and Alpha Innovations contribute the majority of total profit, indicating consistent campaign execution. Customer engagement levels remain predominantly medium to high, reflecting effective targeting. Seasonal trends show peak performance around September, emphasizing the importance of timing in marketing strategies. Overall, the analysis identifies clear opportunities to scale high-performing channels and customer segments for improved future outcomes.
