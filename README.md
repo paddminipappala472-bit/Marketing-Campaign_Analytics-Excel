@@ -14,6 +14,7 @@ Interactive dashboard creation
 # Project Files
 - 📊 **Excel Workbook (Raw data, processed data, dashboard):**  
   [Download Excel file](https://docs.google.com/spreadsheets/d/1s5r1R2SLRNXIVJzM4KkUjIoS4G4HR4oi/edit?usp=sharing&ouid=109834496355234014719&rtpof=true&sd=true)
+  <img width="1189" height="850" alt="Marketing_Analytics_Dashboard" src="https://github.com/user-attachments/assets/7c4a7917-5d22-410f-a9d2-08d57f31ce0b" />
 
 # Key Insights
 
