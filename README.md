@@ -1,5 +1,5 @@
 # 📊 Marketing Campaign Performance & ROI Optimization Analysis
-Marketing campaign performance analysis using Excel dashboards and KPIs
+## 🔗 View Dashboard & Analysis (PPT)
 ## https://app.presentations.ai/view/tl8ouCUIOi
 # Project Objective
 The objective of this project is to analyze marketing campaign performance across multiple channels, companies, and customer segments to identify high-performing strategies. The analysis focuses on understanding conversion behavior, ROI, engagement levels, seasonal trends, and profitability to support data-driven marketing decisions and campaign optimization.
